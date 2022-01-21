@@ -5,10 +5,10 @@ body{
     background: linear-gradient(90deg,#000066,#FF9933);
 }
 hr{
-    color: honeydew;
+    color:#FF9933
 }
 ol{
-    color: rgb(211, 242, 247);
+    color: rgb(153, 143, 88);
 }
 p{
     color: white;
@@ -18,7 +18,7 @@ ul{
     color: rgb(253, 236, 2);
 }
 q{
-    color: thistle;
+    color: rgb(255, 255, 255);
 }
 a{
     color: yellow;
